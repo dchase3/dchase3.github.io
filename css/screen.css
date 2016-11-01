@@ -34,14 +34,13 @@ a {
 
 p,
 ul {
-  padding-bottom: 1.222em; /* 22px */
+  padding-bottom: 0.611em; /* 11px */
 }
 
 li {
   padding-bottom: 0.611em; /* 11px, half of the gridline */
 }
 
-ul,
 li:last-child {
   padding-bottom: 0;
 }
