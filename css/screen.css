@@ -41,6 +41,7 @@ li {
   padding-bottom: 0.611em; /* 11px, half of the gridline */
 }
 
+ul,
 li:last-child {
   padding-bottom: 0;
 }
