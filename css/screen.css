@@ -51,3 +51,30 @@ li:last-child {
   list-style-type: disc;
   padding-left: 0.916em;
 }
+
+/*layout styles*/
+
+#navigation{
+  position: static; 
+  top:0;
+} 
+.navigation li,
+.navigation li:last-child{
+  display: inline-block;
+  padding: 0;
+  width: 100%;
+  border-bottom: 0.02em solid #0000;
+}
+.navigation {
+  line-height:0.2em;;
+  padding: 0;
+}
+.navigation li a {
+  display: block;
+  background-color: #EF2;
+  color: #222;
+  padding: 0.611em;
+  text-decoration: none;
+  padding-bottom: 0.611em;
+  padding: 0.611em;
+}
