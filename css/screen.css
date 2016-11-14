@@ -16,7 +16,7 @@ html {
   line-height: 1.222em; /* 22px */
   color: #2FE;
   background-color: #222;
-  padding: 1.222em 16.5px;
+  padding: 1.222em 0.917em; /*16.5px*/
 }
 
 h1 {
@@ -71,8 +71,8 @@ li:last-child {
 }
 .navigation li a {
   display: block;
-  background-color: #2700EF;
-  color: #efff00ff;
+  background-color: #EF2;
+  color: #222;
   padding: 0.611em;
   text-decoration: none;
   padding-bottom: 0.611em;
