@@ -45,6 +45,28 @@ li:last-child {
   padding-bottom: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
+video {
+  width: 100%;
+}
+
+header {
+  background: url(../img/space_cover.jpg) #222;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover; 
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: left;
+}
+
 /*modular styles*/
 
 .content ul {
