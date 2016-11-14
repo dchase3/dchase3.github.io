@@ -52,6 +52,14 @@ li:last-child {
   padding-left: 0.916em;
 }
 
+navi ul li {
+  text-transform: uppercase;
+  display: inline-block;
+  float: right;
+  letter-spacing: 0.111em; /*2px*/
+  font-size: 0.778em; /*14px*/
+}
+
 /*layout styles*/
 
 #navigation{
